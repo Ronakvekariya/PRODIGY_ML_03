@@ -4,7 +4,7 @@
 - SVM is a powerful supervised learning model that can perform linear and non-linear classification effectively.
 
 # DataSet :
-[link](https://www.kaggle.com/c/dogs-vs-cats/data)
+[Dataset Link](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 # Data Preparation
 - The image data needs to be prepare as per the need of the model.
